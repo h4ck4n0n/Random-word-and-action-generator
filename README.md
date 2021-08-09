@@ -1,7 +1,7 @@
 # Random Word and Action Generater 
 This was a project given by codecademy fullstack developer path. The purpose of this program is to generate a random word with a random action to perform. The words and the actions are in the same object but different elements as an array.
 ## Tools
-* NodeJsjs for running the JavaScript code
+* NodeJs for running the JavaScript code
 * Visual Studio Code
 ## Requirments 
 * NodeJs, you can install it from https://nodejs.org/
