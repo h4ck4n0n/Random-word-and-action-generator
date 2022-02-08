@@ -7,7 +7,7 @@ This was a project given by codecademy fullstack developer path. The purpose of 
 * NodeJs, you can install it from https://nodejs.org/
 ## Usage
 1. Clone the repository
-    `git clone https://github.com/h4ck4n0n/Random-word-and-action-generator.git`
+    `git clone https://github.com/samicsc0/Random-word-and-action-generator.git`
 2. Open your terminal and type
     `node script.js`
 ## Credits
